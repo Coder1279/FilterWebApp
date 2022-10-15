@@ -1,0 +1,15 @@
+#yellow
+{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant-caps: all-small-caps;
+}
+#button1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant-caps: all-small-caps;
+    font-size:25px;
+    border-radius: 25%;
+    border-color:aquamarine;
+    border-width: 5px;
+}
